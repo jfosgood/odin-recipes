@@ -1,31 +1,40 @@
+.flex-container {
+    display: flex;
+}
+
+.flex-container ul {
+    margin: 4px;
+    text-align: center;
+    font-family: monospace;
+    list-style-type: none;
+}
+
+.flex-container li{
+    flex: 1;
+    list-style-type: none;
+    text-align: center;
+}
+
 .title {
     font-family: monospace;
     text-align: center;
     color: blue;
+    margin: auto;
 }
 
-.man-image {
-    height: auto;
-    width: auto;
-    padding: auto;
-}
-
-.recipe-list {
-    background-color: yellow;
-    color: rgb(23, 163, 200);
-    font-family: monospace;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .message {
-    color: red;
-    background-color: rgb(245, 60, 60);
+    color: rgb(255, 0, 0);
+    border: 4px solid brown;
 }
 
 p {
     font-family: monospace;
-    text-align: center;
-}
-
-body {
     text-align: center;
 }

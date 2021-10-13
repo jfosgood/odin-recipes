@@ -8,17 +8,18 @@
     <body>
         <h1 class="title">Odin Recipes</h1>
         
-        <ol class="recipe-list">
+        <img class="center" src="assets/images/hungry.jpg"/>
+        
+        
+        <ul class="flex-container">
             <li><a href="recipes/chili.html">Chili</a></li>
             <li><a href="recipes/chicken.html">Chicken Piccata</a></li>
             <li><a href="recipes/waffles.html"><strong>Waffles!</strong></a></li>
-        
-        <img class="man-image" src="assets/images/hungry.jpg"/>
-        
-        </ol>
+        </ul>
         
         
-        <h5 class="message">Chicken, Chili, and Waffles are the only three recipes that a true man should ever need.</h5>
+        
+        <h5 class="message center">Chicken, Chili, and Waffles are the only three recipes that a true man should ever need.</h5>
         
     </body>
 </html>
