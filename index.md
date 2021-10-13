@@ -13,7 +13,7 @@
         <li><a href="recipes/chicken.html">Chicken Piccata</a></li>
         <li><a href="recipes/waffles.html"><strong>Waffles!</strong></a></li>
         
-        <img src="images/hungry.jpg"/>
+        <img src="assets/images/hungry.jpg"/>
         
         </ol>
         
