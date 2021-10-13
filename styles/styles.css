@@ -1,0 +1,31 @@
+.title {
+    font-family: monospace;
+    text-align: center;
+    color: blue;
+}
+
+.man-image {
+    height: auto;
+    width: auto;
+    padding: auto;
+}
+
+.recipe-list {
+    background-color: yellow;
+    color: rgb(23, 163, 200);
+    font-family: monospace;
+}
+
+.message {
+    color: red;
+    background-color: rgb(245, 60, 60);
+}
+
+p {
+    font-family: monospace;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
