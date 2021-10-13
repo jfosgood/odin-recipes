@@ -3,6 +3,7 @@
     <head>
         <title>My First Project</title>
         <meta charset="UTF-8">
+        <link rel="stylesheet" href="styes/styles.css">
     </head>
     <body>
         <h1>Odin Recipes</h1>
